@@ -10,7 +10,7 @@
   "keywords": [
     "backend"
   ],
-  "author": "ashok",
+  "author": "Ashok",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.4"
